@@ -1,6 +1,6 @@
 {
   "name": "@jalavosus/mutexcache",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Dynamically created, cached mutexes in JS.",
   "source": "src/index.ts",
   "module": "dist/index.js",
@@ -15,7 +15,7 @@
   "scripts": {
     "build": "parcel build src/index.ts"
   },
-  "repository": "github.com/jalavosus/mutexcache-node",
+  "repository": "https://github.com/jalavosus/mutexcache-node",
   "author": "jalavosus",
   "license": "MIT",
   "private": false,
