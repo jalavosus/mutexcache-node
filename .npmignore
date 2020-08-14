@@ -1,3 +1,4 @@
 .parcel-cache/
 src/
 yarn.lock
+.idea/

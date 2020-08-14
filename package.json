@@ -1,6 +1,6 @@
 {
-  "name": "mutexcache",
-  "version": "0.1.0",
+  "name": "@jalavosus/mutexcache",
+  "version": "0.1.1",
   "description": "Dynamically created, cached mutexes in JS.",
   "source": "src/index.ts",
   "module": "dist/index.js",
